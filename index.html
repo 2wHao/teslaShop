@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer" />
+    <title>Tesla官方商店 | Tesla</title>
+
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/dist/index.min.css">
+    <link rel="stylesheet" href="./swiper/package/swiper-bundle.min.css">
+    <script src="./jquery/jquery.min.js"></script>
+    <script src="./js/ajax.js"></script>
+    <script src="./swiper/package/swiper-bundle.min.js"></script>
+    <script src="./js/index.js"></script>
+
+</head>
+
+<body>
+    <div id="carts" class="a">
+        <div id="carts_in">
+            <div id="carts_intop">
+                <h5>您的购物车<span>（0）</span></h5>
+                <span class="glyphicon glyphicon-remove-circle" id="out"></span>
+            </div>
+            <div id="carts_in_1">
+
+                <div id="text">
+                    <p>您的购物车是空的。</p>
+                </div>
+            </div>
+
+            <div id="carts_footer">
+                <p>购物车总额：￥0.00</p>
+                <button class="pay" disabled>结账</button>
+                <p class="free">所有订单均可享受免费配送。</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="top">
+        <div id="top_logo" class="row">
+            <a href="./index.html">
+                <img src="./images/logo_1.png" alt="" class="logo">
+            </a>
+            <a href="./index.html" class="shop"> <strong>|</strong> &nbsp;&nbsp;&nbsp;商店</a>
+        </div>
+
+        <div id="top_mid">
+            <ul class="list"></ul>
+        </div>
+
+        <div id="top_login">
+            <div id="login_user">
+                <a href="./html/login.html">登录</a>
+            </div>
+            <a href="#">
+                <span class="glyphicon glyphicon-search"></span>
+            </a>
+            <span class="glyphicon glyphicon-shopping-cart" id="opencarts"></span>
+        </div>
+    </div>
+
+    <div class="jumbotron">
+        <a href="./html/detail.html?id=10">
+            <div>
+                <span>点击购买 家庭充电服务包</span>
+                <p> 随时在家为特斯拉充电</p>
+            </div>
+        </a>
+    </div>
+
+    <div id="list">
+        <p>
+            <a href=""><span>畅销商品</span></a>
+            <a href="" style="font-size: 10px;">查看全部</a>
+        </p>
+    </div>
+
+    <div class="swiper-container">
+        <div class="swiper-wrapper" id="wrapper"></div>
+
+        <div class="swiper-button-prev swiper-button-black"></div>
+        <div class="swiper-button-next swiper-button-black"></div>
+    </div>
+
+    <div id="box1">
+        <div id="box1_left"></div>
+        <div id="box1_right"></div>
+    </div>
+
+    <div id="box2"></div>
+
+    <div id="box3">
+        <div id="box3_left"></div>
+        <div id="box3_right">
+
+        </div>
+    </div>
+
+    <div id="footer">
+        <ul>
+            <a href="https://www.tesla.cn/about?redirect=no">
+                <li>Tesla © 2021</li>
+            </a>
+            <a href="https://www.tesla.cn/legal?redirect=no">
+                <li>隐私和法律</li>
+            </a>
+            <a href="http://www.beian.miit.gov.cn/">
+                <li>沪ICP备14038430号-1</li>
+            </a>
+            <a href="https://www.tesla.cn/careers?redirect=no">
+                <li>
+                    工作机会</li>
+            </a>
+            <a href="https://www.tesla.cn/support/shop?redirect=no">
+                <li>
+                    商店常见问题</li>
+            </a>
+            <a href="https://www.tesla.cn/">
+                <li>tesla.cn</li>
+            </a>
+        </ul>
+    </div>
+</body>
+
+</html>

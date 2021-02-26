@@ -1,0 +1,130 @@
+{
+        "Top": [{
+                "0": {
+                        "label": "店铺活动",
+                        "list": {
+                                "a": "2021新年礼盒",
+                                "b": "特斯拉暖冬福利"
+                        }
+                },
+                "1": {
+                        "label": "充电产品",
+                        "list": {
+                                "a": "家庭充电",
+                                "b": "旅途充电"
+                        }
+                },
+                "2": {
+                        "label": "优选配件",
+                        "list": {
+                                "a": "家庭充电",
+                                "b": "旅途充电"
+                        }
+                },
+                "3": {
+                        "label": "精选服饰",
+                        "list": {
+                                "a": "家庭充电",
+                                "b": "旅途充电"
+                        }
+                },
+                "4": {
+                        "label": "周边精品",
+                        "list": {
+                                "a": "家庭充电",
+                                "b": "旅途充电"
+                        }
+                },
+                "length": "4"
+        }],
+
+        "List": [{
+                "0": {
+                        "id": "01",
+                        "label": "男装 T标 短袖T恤",
+                        "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/product-carousel/7528845-00-A--mens-t-embroidery-tee-grey.jpg"
+                },
+                "1": {
+                        "id": "02",
+                        "label": "Model X 全天候地垫",
+                        "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/product-carousel/1103026-00-A.jpg"
+                },
+
+                "2": {
+                        "id": "03",
+                        "label": "女装 小Tesla Logo 短袖T恤",
+                        "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/product-carousel/7528823-00-A--womens-small-chest-wordmark-tee-white.jpg"
+                },
+                "3": {
+                        "id": "04",
+                        "label": "Model S 全天候脚垫套装",
+                        "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/product-carousel/1019290-00-B.jpg"
+                },
+                "4": {
+                        "id": "05",
+                        "label": "轮胎修理工具包",
+                        "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/product-carousel/1133009-00-A.jpg"
+                },
+                "5": {
+                        "id": "06",
+                        "label": "Model S 1:18 汽车模型",
+                        "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/product-carousel/1474952-00-A_0.jpg"
+                },
+                "length": "6"
+        }],
+
+        "ad": [{
+                "Model3_parts": {
+                        "0": {
+                                "id": "07",
+                                "label": "Model 3 配件",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/v2/model3@2x.jpg"
+                        }
+                },
+                "ModelX_parts": {
+                        "0": {
+                                "id": "08",
+                                "label": "Model X 配件",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/modelx@2x.jpg"
+                        }
+                },
+                "ModelS_parts": {
+                        "0": {
+                                "id": "09",
+                                "label": "Model S 配件",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/models@2x.jpg"
+                        }
+                },
+
+                "Charge_service": {
+                        "0": {
+                                "id": "10",
+                                "label": "充电产品",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/charging-gen3@2x.jpg"
+                        }
+                },
+
+                "male": {
+                        "0": {
+                                "id": "11",
+                                "label": "男装",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/mens@2x.jpg"
+                        }
+                },
+                "female": {
+                        "0": {
+                                "id": "12",
+                                "label": "女装",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/womens@2x.jpg"
+                        }
+                },
+
+                "Banner": {
+                        "0": {
+                                "subtitle": "点击购买 家庭充电服务包",
+                                "label": "随时在家为特斯拉充电",
+                                "img": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/hero-carousel/wall-connector-gen3@2x.jpg"
+                        }
+                }
+        }]
+}
